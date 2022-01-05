@@ -1,6 +1,17 @@
+body {
+  margin: 0%;
+}
 .robin {
+  background-color: darkgrey;
+  display: flex;
   font-family: "Merriweather", serif;
   font-size: 25px;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.robin img {
+  width: 80%;
+  padding-right: 10%;
 }
 #mouse {
   color: crimson;
@@ -12,4 +23,14 @@
   color: whitesmoke;
   border-radius: 5px;
   font-weight: 400;
+}
+#mate {
+  text-align: center;
+}
+.alfred {
+  font-family: "Merriweather", serif;
+  font-size: 25px;
+}
+.queen img {
+  padding: 5%;
 }
