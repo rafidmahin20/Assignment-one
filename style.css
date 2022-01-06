@@ -26,11 +26,59 @@ body {
 }
 #mate {
   text-align: center;
+  padding-top: 5%;
 }
 .alfred {
+  background-color: darkcyan;
+  padding: 0%;
+  margin: 0%;
   font-family: "Merriweather", serif;
   font-size: 25px;
 }
 .queen img {
   padding: 5%;
+}
+#heading-1 {
+  padding-left: 5%;
+}
+.villains {
+  display: flex;
+}
+.queen {
+  text-align: center;
+  background-color: aqua;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  border-radius: 10px;
+  border: none;
+  width: 18%;
+  padding: 5%;
+  height: 330px;
+  box-shadow: 5px 8px 50px gray;
+}
+.harley {
+  text-align: center;
+  background-color: burlywood;
+  margin-top: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 10px;
+  width: 18%;
+  padding: 5%;
+  height: 330px;
+  box-shadow: 5px 8px 50px gray;
+}
+.mask {
+  text-align: center;
+  background-color: cadetblue;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: none;
+  width: 18%;
+  border-radius: 10px;
+  padding: 5%;
+  height: 330px;
+  box-shadow: 5px 8px 50px gray;
 }
