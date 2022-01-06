@@ -22,7 +22,7 @@ section {
 }
 .robin img {
   width: 80%;
-  padding-right: 10%;
+  border-radius: 10px;
 }
 #mouse {
   color: crimson;
@@ -45,8 +45,11 @@ section {
   font-family: "Merriweather", serif;
   font-size: 25px;
 }
+.alfred img {
+  border-radius: 10px;
+}
 .queen img {
-  padding: 5%;
+  border-radius: 10px;
 }
 #heading-1 {
   padding-left: 5%;
@@ -96,23 +99,17 @@ section {
   display: flex;
   font-family: "Merriweather", serif;
 }
-.first-robin img {
-  padding-top: 10%;
-  padding-left: 10%;
-}
+
 .riot {
   padding-left: 5%;
   padding-right: 5%;
 }
 .riot img {
-  padding-left: 3%;
+  border-radius: 10px;
 }
 #car {
   padding-top: 10%;
   text-align: justify;
-}
-#rio {
-  color: chartreuse;
 }
 .assasin {
   display: flex;
@@ -121,6 +118,9 @@ section {
 .first {
   padding-left: 5%;
   padding-right: 5%;
+}
+.first img {
+  border-radius: 10px;
 }
 #second {
   padding-top: 10%;
