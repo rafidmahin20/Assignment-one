@@ -16,6 +16,10 @@ section {
   padding-left: 5%;
   padding-top: 5%;
 }
+.boy {
+  font-size: 20px;
+  margin-right: 5%;
+}
 .robin img {
   width: 80%;
   padding-right: 10%;
@@ -100,6 +104,9 @@ section {
   padding-left: 5%;
   padding-right: 5%;
 }
+.riot img {
+  padding-left: 3%;
+}
 #car {
   padding-top: 10%;
   text-align: justify;
@@ -109,7 +116,7 @@ section {
 }
 .assasin {
   display: flex;
-  padding-top: 10%;
+  padding-top: 5%;
 }
 .first {
   padding-left: 5%;
@@ -124,7 +131,7 @@ center {
   padding-bottom: 5%;
 }
 .movie {
-  color: cornflowerblue;
+  color: darkslateblue;
   padding-bottom: 5%;
   font-weight: bold;
 }
