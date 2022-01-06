@@ -82,3 +82,34 @@ body {
   height: 330px;
   box-shadow: 5px 8px 50px gray;
 }
+.first-robin {
+  display: flex;
+  font-family: "Merriweather", serif;
+}
+.first-robin img {
+  padding-top: 10%;
+  padding-left: 10%;
+}
+.riot {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#car {
+  padding-top: 10%;
+  text-align: justify;
+}
+#rio {
+  color: chartreuse;
+}
+.assasin {
+  display: flex;
+  padding-top: 10%;
+}
+.first {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#second {
+  padding-top: 10%;
+  text-align: justify;
+}
