@@ -6,7 +6,7 @@ section {
 }
 .border {
   border-left: 7px solid;
-  border-image: linear-gradient(blue, violet);
+  border-image: linear-gradient(red, violet);
   border-image-slice: 1;
 }
 .robin {
